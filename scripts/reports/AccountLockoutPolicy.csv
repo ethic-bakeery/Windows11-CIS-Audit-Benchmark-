@@ -1,0 +1,5 @@
+"Check","Compliance","Recommendation"
+"Account lockout duration","Met","Ensure the policy is set to 15 or more minutes."
+"Account lockout threshold","Met","Ensure the policy is set to 5 or fewer invalid logon attempts (but not 0)."
+"Allow Administrator account lockout","Met","Ensure the policy is enabled."
+"Reset account lockout counter after","Met","Ensure the policy is set to 15 or more minutes."
