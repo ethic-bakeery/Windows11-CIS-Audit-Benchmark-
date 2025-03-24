@@ -41,7 +41,7 @@ git clone https://github.com/ethic-bakeery/Windows11-CIS-Audit-Benchmark-.git
 Navigate to the project directory:
 
 ```bash
-cd cis-compliance-checker
+cd Windows11-CIS-Audit-Benchmark
 ```
 
 ### **Usage**
@@ -50,7 +50,7 @@ cd cis-compliance-checker
 2. Run the script:
 
    ```powershell
-   .\CIS_Compliance_Check.ps1
+   .\Run-Audit.ps1
    ```
 
 3. The script will generate CSV reports in the `CIS_Compliance_Report` folder on your desktop.
